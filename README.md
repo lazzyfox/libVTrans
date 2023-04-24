@@ -1,5 +1,5 @@
 # libVTtrans
-OpenStack VM transfer network protocol like TFTP but with some additionsl features support:
+OpenStack VM transfer network protocol like TFTP with some additionsl features support:
 1. ReUpLoad/ReDownload
 2. Encription
 
