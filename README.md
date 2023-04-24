@@ -1,6 +1,6 @@
 # libVTtrans
 OpenStack VM transfer network protocol like TFTP with some additionsl features support:
-1. ReUpLoad/ReDownload
+1. ReUpLoad/ReDownLoad
 2. Encription
 
 Easy, single file c++ library 
