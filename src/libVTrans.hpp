@@ -31,9 +31,11 @@ SOFTWARE.
  *
  * \section description VTrans library
  *  Protocol based on RFC stndarts for TFTP (RFC 1350, RFC 2347, RFC 2348, RFC 2349, RFC 2090) 
- *  with two       additionsl features :
+ *  with a few additionsl features :
  *  1. ReUpLoad/ReDownload
  *  2. Encription
+ *  3. Data consistency check (hash cheksum field for data packet section)
+ *
  *  TFTP RFS's support make it compatible with standart TFTP clents nad servers application
  *   
  *
